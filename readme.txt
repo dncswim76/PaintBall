@@ -36,7 +36,7 @@ For those of you that don't know how to use git:
      to the git repository
 
      then say in linux command line:
-     git clone <paste url here>
+     git clone <paste here> <choose a local repo name>
 
      you can make changes to the code that is there, but to update the version
      say:
